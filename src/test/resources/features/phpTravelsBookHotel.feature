@@ -2,7 +2,7 @@
 #
 #Como: Usuario
 #Quiero: Buscar hoteles disponibles
-#Para: Realizar una reserva en un hotel
+#Para: Realizar una reserva de una habitación
 
 Feature: As a user i need to find hotels in the web PHP Travels to make a reservation
 
